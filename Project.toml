@@ -1,0 +1,8 @@
+name = "ProjectSchnetter"
+uuid = "5406a650-b870-11e8-03cb-bb45f4bda02d"
+authors = ["Christopher "]
+version = "0.1.0"
+
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
